@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-to-text-in-react/static/css/main.b5cf93b6.css",
+    "main.js": "/image-to-text-in-react/static/js/main.accdc26a.js",
+    "index.html": "/image-to-text-in-react/index.html",
+    "main.b5cf93b6.css.map": "/image-to-text-in-react/static/css/main.b5cf93b6.css.map",
+    "main.accdc26a.js.map": "/image-to-text-in-react/static/js/main.accdc26a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5cf93b6.css",
+    "static/js/main.accdc26a.js"
+  ]
+}
